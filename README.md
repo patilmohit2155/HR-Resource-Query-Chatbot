@@ -74,3 +74,25 @@ Improve frontend with employee profile cards.
 Cache FAISS index on disk instead of rebuilding every time.
 
 Replace FLAN-T5 with a quantized LLaMA or Mistral model for higher accuracy.
+
+#Tips for Demo
+
+Show starting the backend (uvicorn main:app --reload).
+
+Show starting the frontend (streamlit run app.py).
+
+Type 2–3 example queries like:
+
+“Find Python developers with 3+ years experience”
+
+“Who has worked on healthcare projects?”
+
+“Find developers who know both AWS and Docker”
+
+Scroll through results showing employee profiles and LLM response.
+
+
+
+https://github.com/user-attachments/assets/de84a9bd-4677-4a41-8ace-0bf5e2857e88
+
+

@@ -57,9 +57,7 @@ Embedding model: "all-MiniLM-L6-v2" → compact, high-quality embeddings for sem
 
 LLM choice: FLAN-T5 → strong at structured text generation without cloud APIs.
 
-Trade-offs:
 
-Local model is slower than OpenAI GPT-4 but free and privacy-safe.
 
 FAISS is lightweight but doesn’t persist indexes automatically (could be added later).
 
